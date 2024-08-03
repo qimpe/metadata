@@ -1,0 +1,27 @@
+{
+    "name": "Magic Mushroom #57",
+    "description": "Hand drawing brings the NFT an artistic value, while various accessories and materials bring uniqueness and significance in our rapidly changing world.",
+    "image": "7.png",
+    "attributes": [
+        {
+            "trait_type": "Material",
+            "value": "Wool fabric"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Top hat"
+        },
+        {
+            "trait_type": "Glasses",
+            "value": "None"
+        },
+        {
+            "trait_type": "Item",
+            "value": "None"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Dark"
+        }
+    ]
+}
